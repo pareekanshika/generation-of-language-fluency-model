@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(36, 46, 129);
+}
+
+header {
+    background-color: #8b7197;
+    color: #fff;
+    padding: lem;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#mike-section {
+    width: 400px;
+    height: 250px;
+    /* Increased height to accommodate both image and text box */
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+}
+
+#mic-image {
+    float: left;
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+#ml-image {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+#text-area {
+    padding: 15px;
+    margin: 0 10px;
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: lem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
